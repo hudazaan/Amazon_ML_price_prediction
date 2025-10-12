@@ -138,7 +138,7 @@ Complete code directory includes:
 
 Google Drive Link: https://drive.google.com/drive/folders/1r6V1IBkuZ7Y6RARpml58RiXngL3i8T_n?usp=sharing
 
-Github Repository Link:
+Github Repository Link: https://github.com/hudazaan/Amazon_ML_price_prediction
 
 ### B. Additional Results
 - Feature importance analysis showed text_length and value_capped as most significant predictors
