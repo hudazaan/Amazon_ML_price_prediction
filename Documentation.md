@@ -32,7 +32,7 @@ We interpreted this as a multimodal regression problem where product pricing dep
 ## 3. Model Architecture
 
 ### 3.1 Architecture Overview
-
+```                                       
                                 [START]
                                    ↓
                    [LOAD DATA (train.csv & test.csv = 1,50,000 products)]
@@ -72,7 +72,7 @@ We interpreted this as a multimodal regression problem where product pricing dep
                          └─ test_out.csv
                                     ↓
                                   [END]
- 
+ ```
 
 ### 3.2 Model Components
 
