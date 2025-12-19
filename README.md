@@ -1,9 +1,9 @@
 # ML Challenge 2025: Smart Product Pricing Solution
 
-### **Team Name:** AVIATOR <br> 
-### **Dev Name:** Huda Naaz <br>
-### **Submission Date:** 13.10.2025 <br> 
-### **Score:** 59.755 <br\> 
+#### **Team Name:** AVIATOR <br> 
+#### **Dev Name:** Huda Naaz <br>
+#### **Submission Date:** 13.10.2025 <br> 
+#### **Score:** 59.755 <br> 
 ---
 
 ## 1. Executive Summary
