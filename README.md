@@ -3,7 +3,7 @@
 **Team Name:** AVIATOR
 **Dev Name:** Huda Naaz
 **Submission Date:** 13.10.2025
-
+**Score:** 59.755 
 ---
 
 ## 1. Executive Summary
